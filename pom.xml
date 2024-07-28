@@ -61,7 +61,7 @@
 
         <slack.common.version>2.0.0</slack.common.version>
         <platform.version>7.0.0</platform.version>
-        <jvm17.opens />
+        <jvm17.opens/>
     </properties>
 
     <build>
@@ -268,7 +268,7 @@
             <dependency>
                 <groupId>org.projectlombok</groupId>
                 <artifactId>lombok</artifactId>
-                <version>1.18.24</version>
+                <version>1.18.34</version>
             </dependency>
             <dependency>
                 <groupId>commons-codec</groupId>
