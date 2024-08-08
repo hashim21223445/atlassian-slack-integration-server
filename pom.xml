@@ -46,7 +46,7 @@
         <project.scm.id>github</project.scm.id>
 
         <!-- Dependencies -->
-        <mockito-core.version>2.25.0</mockito-core.version>
+        <mockito-core.version>2.28.2</mockito-core.version>
         <junit.version>4.13.2</junit.version>
         <junit.jupiter.version>5.7.1</junit.jupiter.version>
         <joda-time.version>2.3</joda-time.version>
