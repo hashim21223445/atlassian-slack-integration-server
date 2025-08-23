@@ -48,7 +48,7 @@
         <!-- Dependencies -->
         <mockito-core.version>5.18.0</mockito-core.version>
         <junit.version>4.13.2</junit.version>
-        <junit.jupiter.version>5.10.2</junit.jupiter.version>
+        <junit.jupiter.version>5.13.4</junit.jupiter.version>
         <joda-time.version>2.3</joda-time.version>
         <commons-lang3.version>3.18.0</commons-lang3.version>
         <commons-codec.version>1.14</commons-codec.version>
