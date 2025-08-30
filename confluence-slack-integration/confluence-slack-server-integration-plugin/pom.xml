@@ -29,7 +29,7 @@
         <confluence.data.version>${confluence.version}</confluence.data.version>
 
         <confluence.amps.version>8.9.2</confluence.amps.version>
-        <jvm17.opens />
+        <jvm17.opens/>
     </properties>
 
     <dependencies>
@@ -58,7 +58,7 @@
         <dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-core</artifactId>
-            <version>5.6.15.Final</version>
+            <version>7.0.9.Final</version>
         </dependency>
         <dependency>
             <groupId>javax.persistence</groupId>
@@ -351,7 +351,7 @@
                         <atlassian.darkfeature.pulp>false</atlassian.darkfeature.pulp>
                     </systemPropertyVariables>
                     <instructions>
-                        <CONF_COMM />
+                        <CONF_COMM/>
                         <Bundle-SymbolicName>com.atlassian.confluence.plugins.confluence-slack-server-integration-plugin</Bundle-SymbolicName>
                         <Import-Package>
                             org.springframework.osgi.context;resolution:=optional,
